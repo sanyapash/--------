@@ -1,0 +1,11 @@
+.game-card {
+    height: 100vh;
+    font-family: 'Open Sans', monospace;
+}
+
+#btnLess {
+    color: rgb(255, 0, 0);
+}
+#btnOver {
+    color: red;
+}
